@@ -1,5 +1,5 @@
 ---
-title:  토스트 루키-임예지
+title:  Yeji Im
 layout: post
 permalink: /about/
 ---
